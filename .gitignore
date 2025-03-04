@@ -45,3 +45,5 @@ outputs/
 .cache/
 *.tmp
 *.swp
+
+# future files
